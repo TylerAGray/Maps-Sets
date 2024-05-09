@@ -44,5 +44,3 @@ Write a function called vowelCount which accepts a string and returns a map wher
 vowelCount('awesome') // Map { 'a' => 1, 'e' => 2, 'o' => 1 }
 vowelCount('Colt') // Map { 'o' => 1 }
 ```
-
-[Solution](https://lessons.springboard.com/Solution-785cba9d3554495f9787e49fcedd6c2f?pvs=21)
